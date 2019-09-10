@@ -184,11 +184,11 @@
 					<Item id="46009" name="אספ"/>
 					<Item id="46010" name="גיליונות סגנון מדורגים"/>
 					<Item id="46011" name="שפת פסקל"/>
-					<Item id="46012" name="פייטון"/>
+					<Item id="46012" name="פייתון"/>
 					<Item id="46013" name="שפת פרל"/>
 					<Item id="46014" name="אובייקט-C"/>
 					<Item id="46015" name="סגנון MS-DOS"/>
-					<Item id="46016" name="טקסט נורמלי"/>
+					<Item id="46016" name="טקסט רגיל"/>
 					<Item id="46017" name="קובץ משאב אר-סי"/>
                     <Item id="46018" name="מייקפייל"/>
 					<Item id="46019" name="קובץ MS INI"/>
@@ -271,7 +271,7 @@
 				<Item id="1620" name="מצא את:"/>
                 <Item id="1603" name="התאם את כל המילה"/>
                 <Item id="1604" name="התאם מקרה"/>
-                <Item id="1605" name="ביטוי רגיל"/>
+                <Item id="1605" name="ביטוי רגולרי"/>
                 <Item id="1606" name="כרוך מסביב"/>
                 <Item id="1612" name="למ&amp;עלה"/>
                 <Item id="1613" name="למ&amp;טה"/>
